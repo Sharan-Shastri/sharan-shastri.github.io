@@ -1,221 +1,204 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Sharankumar Shastri",
+    "label": "Electric Machines & Electromechanical Engineer",
     "image": "",
-    "email": "einstein@example.com",
-    "phone": "(912) 123-4567",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "sharan.shastri01@gmail.com",
+    "phone": "+91-9686853407",
+    "url": "https://sharan-shastri.github.io",
+    "summary": "Electric Machines/Electromechanical Engineer with 7+ years of academic and industrial experience in electric-machine design, motor-drive systems, electromagnetic modelling, controls, system validation, and engineering automation.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "city": "Bangalore",
+      "countryCode": "IN",
+      "region": "Karnataka"
     },
-    "profiles": []
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "Sharan-Shastri",
+        "url": "https://github.com/Sharan-Shastri"
+      }
+    ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "location": "Princeton University, NJ",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity", "Description 2."]
+      "name": "Jaguar Land Rover",
+      "position": "e-Machines Systems Engineer",
+      "location": "Bangalore, India",
+      "startDate": "2024-11",
+      "endDate": "Present",
+      "summary": "Leading cross-functional digital twin, rotor topology optimization, and physical/virtual validation activities for automotive e-Machines.",
+      "highlights": [
+        "Leading cross-functional digital twin and test activities for electromagnetic product development, coordinating NVH assessment, magnetic/material evaluation, force measurement selection, test planning, supplier RFQ/RFI activities, risk assessment, and physical validation.",
+        "Developed a topology-optimization based motor design methodology to reduce rotor volume while maintaining torque and electromagnetic performance.",
+        "Defined component/system requirements and verification methods, created validation test cases with end-to-end traceability, and coordinated CAE-to-test correlation.",
+        "Used MATLAB/Simulink and dSPACE-based virtual validation environments for e-drive/controller testing, calibration, and verification activities.",
+        "Awarded Creator Kudos Award (Q4 '25–'26)."
+      ]
     },
     {
-      "name": "California Institute of Technology",
-      "position": "Visiting Professor",
-      "location": "Pasadena, California, US",
-      "startDate": "1933-01-01",
-      "endDate": "1933-01-01",
-      "summary": "",
-      "highlights": ["Description 1.", "Description 2."]
+      "name": "Dyson",
+      "position": "Motor Drives Engineer (Electromagnetic Design and Control), RDD",
+      "location": "Singapore",
+      "startDate": "2024-01",
+      "endDate": "2024-10",
+      "summary": "Designed and optimized permanent-magnet systems for ultra-high-speed consumer-product motors (>150,000 RPM) and automated Python-ANSYS workflows.",
+      "highlights": [
+        "Designed and optimized permanent-magnet systems for ultra-high-speed consumer-product motors (>150,000 RPM), considering magnetic performance, demagnetization margin, magnet retention, rotor structural limits, losses, and manufacturability.",
+        "Performed 2D/3D ANSYS electromagnetic FEA including nonlinear magnetic-material characteristics, magnet eddy-current losses, core losses, and high-frequency operating effects.",
+        "Automated Python–ANSYS electromagnetic analysis and flux-map generation, reducing manual simulation/post-processing effort for Simulink environments.",
+        "Evaluated magnetic materials and collaborated with suppliers on magnet specifications and manufacturing constraints."
+      ]
     },
     {
-      "name": "Kaiser Wilhelm Institute for Physics",
-      "position": "Director",
-      "location": "Berlin, Germany",
-      "startDate": "1917-01-01",
-      "endDate": "1933-01-01",
-      "summary": "",
+      "name": "Indian Institute of Technology Delhi",
+      "position": "Course Teaching Assistant, 'Computer-Aided Design of Electrical Machines' (ELL-851)",
+      "location": "New Delhi, India",
+      "startDate": "2019",
+      "endDate": "2024",
+      "summary": "Teaching Assistant for graduate course ELL-851 (2019, 2020, 2024).",
       "highlights": []
     },
     {
-      "name": "Karl-Ferdinand University",
-      "position": "Professor of Theoretical Physics",
-      "location": "Prague, Czechoslovakia",
-      "startDate": "1911-01-01",
-      "endDate": "1917-01-01",
+      "name": "Technology Information Forecasting and Assessment Council (TIFAC)",
+      "position": "Project Intern",
+      "location": "New Delhi, India",
+      "startDate": "2018-02",
+      "endDate": "2018-05",
       "summary": "",
       "highlights": []
-    },
-    {
-      "name": "University of Zurich",
-      "position": "Associate Professor of Theoretical Physics",
-      "location": "Zurich, Switzerland",
-      "startDate": "1909-01-01",
-      "endDate": "1911-01-01",
-      "summary": "",
-      "highlights": []
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Physics",
-      "studyType": "PhD",
-      "startDate": "1900-01-01",
-      "endDate": "1905-01-01",
-      "score": "",
-      "courses": ["Theory of Relativity"],
-      "highlights": ["Description 1.", "Description 2."]
+      "institution": "Indian Institute of Technology Delhi",
+      "location": "New Delhi, India",
+      "url": "https://home.iitd.ac.in/",
+      "area": "Electrical Engineering",
+      "studyType": "Ph.D. (Senior Research Fellow)",
+      "startDate": "2018",
+      "endDate": "2026",
+      "score": "8.5/10",
+      "courses": ["Thesis: Design and Control of Energy-Efficient Brushless Motors for Low Power Applications"]
     },
     {
-      "institution": "Eidgenössische Technische Hochschule",
-      "location": "Zurich, Switzerland",
-      "area": "Physics",
-      "studyType": "Federal teaching diploma",
-      "startDate": "1896-01-01",
-      "endDate": "1900-01-01",
-      "score": "",
-      "courses": [],
-      "highlights": ["Description 1.", "Description 2."]
+      "institution": "Central University of Karnataka",
+      "location": "Karnataka, India",
+      "area": "Power and Energy Engineering",
+      "studyType": "Integrated M.Tech (5Y M.Tech + B.Tech)",
+      "startDate": "2013-07",
+      "endDate": "2018-05",
+      "score": "5.80/6.0",
+      "courses": [
+        "M.Tech CGPA: 5.80/6.0 (Gold Medalist, 2018)",
+        "B.Tech CGPA: 5.60/6.0 (Gold Medalist, 2017)",
+        "Thesis: Design of Permanent Magnet Brushless DC Motor and Drive for Electric Vehicle Traction Application"
+      ]
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Creator Kudos Award (Q4 '25–'26)",
+      "date": "2026-01-01",
+      "awarder": "Jaguar Land Rover",
+      "summary": "Awarded for cross-functional digital twin and rotor topology optimization contributions."
     },
     {
-      "title": "Max Planck Medal",
-      "date": "2029-01-01",
-      "awarder": "German Physical Society",
-      "summary": ""
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "icon": "fa-solid fa-location-dot"
+      "title": "University Gold Medalist (M.Tech)",
+      "date": "2018-05-01",
+      "awarder": "Central University of Karnataka",
+      "summary": "First rank in M.Tech Power and Energy Engineering (CGPA: 5.80/6.0)."
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "icon": "fa-solid fa-envelope"
+      "title": "University Gold Medalist (B.Tech)",
+      "date": "2017-05-01",
+      "awarder": "Central University of Karnataka",
+      "summary": "First rank in B.Tech Electrical Engineering (CGPA: 5.60/6.0)."
     }
   ],
   "publications": [
     {
-      "name": "Zur Elektrodynamik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "C-Type Magnet Topology for Ceiling Fan Permanent Magnet Brushless DC Motor (Granted Indian Patent 202111024246)",
+      "publisher": "Indian Patent Office",
+      "releaseDate": "2024-09-18",
+      "url": "",
+      "summary": "Inventors: B. Singh, S. Shastri, and U. Sharma."
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
+      "name": "Unequal Halbach Array Assisted Consequent Pole Ceiling Fan Permanent Magnet Brushless DC Motor (Granted Indian Patent 202011054075)",
+      "publisher": "Indian Patent Office",
+      "releaseDate": "2024-02-23",
+      "url": "",
+      "summary": "Inventors: B. Singh, S. Shastri, and U. Sharma."
     },
     {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "Rapid Flux Concentration Factor Determination for Halbach Array Based PM Rotors Using Composite FE Based Method",
+      "publisher": "IEEE Journal on Multiscale and Multiphysics Computational Techniques",
+      "releaseDate": "2023-01-01",
+      "url": "https://doi.org/10.1109/JMMCT.2023.3292979",
+      "summary": "Vol. 8, pp. 241–251, 2023."
+    },
+    {
+      "name": "C-Type Magnet Topology for PMBLDC Motor Based Ceiling Fan",
+      "publisher": "2021 IEEE International Electric Machines Drives Conference (IEMDC)",
+      "releaseDate": "2021-05-01",
+      "url": "https://doi.org/10.1109/IEMDC47953.2021.9449539",
+      "summary": "pp. 1–7, 2021."
+    },
+    {
+      "name": "Design of High Torque Density Reduced-Rare-Earth Consequent Pole PMBLDC Motor for Ceiling Fan",
+      "publisher": "2021 IEEE Energy Conversion Congress and Exposition (ECCE)",
+      "releaseDate": "2021-10-01",
+      "url": "https://doi.org/10.1109/ECCE47101.2021.9595656",
+      "summary": "pp. 4275–4281, 2021."
+    },
+    {
+      "name": "Design and Analysis of Brushless DC Motors for Ceiling Fan Application",
+      "publisher": "2020 IEEE International Conference on Power Electronics, Drives and Energy Systems (PEDES)",
+      "releaseDate": "2020-12-01",
+      "url": "https://doi.org/10.1109/PEDES49360.2020.9379863",
+      "summary": "pp. 1–6, 2020."
     }
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "name": "Magnetics & FEA",
+      "level": "Expert",
+      "icon": "fa-solid fa-magnet",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "ANSYS Maxwell 2D/3D",
+        "Motor-CAD",
+        "Infolytica MagNet",
+        "FEMM",
+        "PMSM & BLDC Design",
+        "Demagnetization & Eddy-Current/Core-Loss Analysis"
       ]
-    }
-  ],
-  "languages": [
-    {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
     },
     {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
-    }
-  ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
+      "name": "Motor Controls & System Simulation",
+      "level": "Expert",
+      "icon": "fa-solid fa-microchip",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "MATLAB/Simulink",
+        "dSPACE",
+        "Motor/Inverter Modelling",
+        "Controller-Plant Integration",
+        "PWM/Commutation",
+        "System Response Analysis"
       ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit."
     },
     {
-      "name": "Professor Jane Smith",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit."
-    }
-  ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01"
+      "name": "Optimization, Automation & Testing",
+      "level": "Advanced",
+      "icon": "fa-solid fa-code",
+      "keywords": [
+        "Python-ANSYS Automation",
+        "DOE & RSM",
+        "Topology Optimization",
+        "NI cRIO & LabVIEW",
+        "Reaction Torque Measurement",
+        "Dassault 3DExperience / Siemens NX"
+      ]
     }
   ]
 }
